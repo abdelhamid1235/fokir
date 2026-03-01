@@ -13,16 +13,7 @@ This project showcases a clean portfolio layout suitable for developers, designe
 
 ## 🚀 Live Demo
 
-🔗 Add your live demo link here  
-(Example: https://yourusername.github.io/Portfolio)
-
----
-
-## 📸 Project Preview
-
-> Add a screenshot of the homepage and name it `preview.png` inside an `images` folder
-
-![Project Preview](./images/preview.png)
+🔗 <a href="https://abdelhamid1235.github.io/fokir"> Live Demo </a>
 
 ---
 
